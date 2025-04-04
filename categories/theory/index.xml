@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Theory on wonderland for koki</title><link>https://koki2219.github.io/categories/theory/</link><description>Recent content in Theory on wonderland for koki</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 04 Apr 2025 23:40:21 +0800</lastBuildDate><atom:link href="https://koki2219.github.io/categories/theory/index.xml" rel="self" type="application/rss+xml"/><item><title>PCAP</title><link>https://koki2219.github.io/posts/pcap/</link><pubDate>Fri, 04 Apr 2025 23:40:21 +0800</pubDate><guid>https://koki2219.github.io/posts/pcap/</guid><description>&lt;h1 id="pcap">PCAP&lt;/h1>
+&lt;p>Primitives-Combination-Abstraction-Patterns&lt;/p>
+&lt;h2 id="ask-yourself-4-questions">Ask yourself 4 questions&lt;/h2>
+&lt;p>What are the primitives?&lt;/p>
+&lt;p>How do you combine them?&lt;/p>
+&lt;p>How do you abstract a bigger behavior from those smaller behaviors?&lt;/p>
+&lt;p>What are the patterns that are important to capture?&lt;/p></description></item></channel></rss>
