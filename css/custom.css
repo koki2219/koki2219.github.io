@@ -1,0 +1,19 @@
+/* 1. 远程引入字体 */
+@import url('https://cdn.jsdelivr.net/npm/lxgw-wenkai-screen-webfont@1.1.0/style.css');
+
+/* 2. 强制全站（包括所有子页面）应用 */
+*:not(i):not(.icon):not(.fa):not(.iconfont) {
+    font-family: "LXGW WenKai Screen", sans-serif !important;
+}
+
+.heading.font-cursive,
+.heading.font-cursive.icon,
+.site-title {
+    font-family: "LXGW WenKai Screen", sans-serif !important;
+    font-style: normal !important; /* 霞鹜文楷本身自带美感，通常不需要额外的斜体效果 */
+}
+
+/* 3. 保护代码块不变成楷体 */
+pre, code, kbd, samp, .highlight, .chroma {
+    font-family: "Consolas", "Monaco", "Andale Mono", "Ubuntu Mono", monospace !important;
+}
